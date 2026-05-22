@@ -97,4 +97,4 @@ npm run dev
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
 ## ✍️ Author
-rahulthapa9024
+https://github.com/rahulthapa9024
